@@ -1,8 +1,7 @@
 BasicConfig:
   serve_groups:
-  - "883733189"
-  - "114514"
-  at_self: "[CQ:at,qq=2256837473]"
+  -
+  at_self: "[CQ:at,qq=]"
   post_url: "http://127.0.0.1:3000/"
   message_post_port: ":8082"
   proxy_port: "10809"
