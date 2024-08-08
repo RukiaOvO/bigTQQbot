@@ -1,0 +1,7 @@
+
+/like 给主页点赞10次
+/gpt xx 向gpt3.5提问
+/help 打开指令帮助
+/setu xx 以xx为tag寻找色图[留空为随机]
+/setu_rank 转换色图等级
+/pixivlist xxx 查看pixiv榜单
